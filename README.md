@@ -12,15 +12,18 @@ Github Repository [Link](https://github.com/DuckArroyo/Challenge1)
 
 # Project Guidelines/Requirements
 
+This project was an excercise in reviewing code and refactor to meet accessibility requirements.
 
 # Contributions by:
 
 DeveloperDuckArroyo
 
-GitHub [GitHub](https://github.com/DuckArroyo)
+[Portfolio](https://duckarroyo.github.io/challenge2/)
 
-Twitter [@DevDuckArroyo](https://twitter.com/DevDuckArroyo)
+[GitHub](https://github.com/DuckArroyo)
 
-LinkeIn [Rafael Arroyo](https://www.linkedin.com/in/duckarroyo/)
+[Twitter @DevDuckArroyo](https://twitter.com/DevDuckArroyo)
 
-# Screnshots
+[LinkeIn](https://www.linkedin.com/in/duckarroyo/)
+
+[CodePen](https://codepen.io/DeveloperDuckArroyo)
