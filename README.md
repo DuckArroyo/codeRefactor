@@ -3,8 +3,7 @@
 ![GitHublicense](https://img.shields.io/npm/l/express?style=for-the-badge)
 
 ## Description
-
-Refactor the code to meet 
+This project was an excercise in reviewing code and refactor to meet accessibility requirements.
 
 # Links
 
@@ -13,8 +12,7 @@ Refactor the code to meet
 [Github Repository](https://github.com/DuckArroyo/codeRefactor)
 
 # Project Guidelines/Requirements
-
-This project was an excercise in reviewing code and refactor to meet accessibility requirements.
+None
 
 # Contributions by:
 
