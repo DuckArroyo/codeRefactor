@@ -2,13 +2,15 @@
 
 ![GitHublicense](https://img.shields.io/npm/l/express?style=for-the-badge)
 
-UO Coding bootcamp Refactor starter code.
+## Description
+
+Refactor the code to meet 
 
 # Links
 
-Github Pages [Link](https://duckarroyo.github.io/Challenge1/)
+[Github Pages](https://duckarroyo.github.io/Challenge1/)
 
-Github Repository [Link](https://github.com/DuckArroyo/Challenge1)
+[Github Repository](https://github.com/DuckArroyo/Challenge1)
 
 # Project Guidelines/Requirements
 
@@ -18,12 +20,20 @@ This project was an excercise in reviewing code and refactor to meet accessibili
 
 DeveloperDuckArroyo
 
-[Portfolio](https://duckarroyo.github.io/challenge2/)
+[Email](mailto:DeveloperDuckArroyo@gmail.com)
+
+[Portfolio](https://duckarroyo.github.io/challenge2)
+
+[React Portfolio](http://DuckArroyo.github.io/challenge20)
 
 [GitHub](https://github.com/DuckArroyo)
 
 [Twitter @DevDuckArroyo](https://twitter.com/DevDuckArroyo)
 
-[LinkeIn](https://www.linkedin.com/in/duckarroyo/)
+[LinkeIn](https://www.linkedin.com/in/duckarroyo)
 
 [CodePen](https://codepen.io/DeveloperDuckArroyo)
+
+# Screnshots
+
+<img src="./.png" style="width: 400px">
