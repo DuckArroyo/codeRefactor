@@ -8,9 +8,9 @@ Refactor the code to meet
 
 # Links
 
-[Github Pages](https://duckarroyo.github.io/Challenge1/)
+[Github Pages](https://duckarroyo.github.io/codeRefactor)
 
-[Github Repository](https://github.com/DuckArroyo/Challenge1)
+[Github Repository](https://github.com/DuckArroyo/codeRefactor)
 
 # Project Guidelines/Requirements
 
