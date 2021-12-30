@@ -29,3 +29,21 @@ Repository follows best practices for file structure and naming conventions. - D
 Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. - DONE
 Repository contains multiple descriptive commit messages. - DONE
 Repository contains quality README file with description, screenshot, and link to deployed application. - DONE
+
+# Contributions by:
+
+DeveloperDuckArroyo
+
+[Email](mailto:DeveloperDuckArroyo@gmail.com)
+
+[Portfolio](https://github.com/DuckArroyo/portfolio)
+
+[React Portfolio](http://DuckArroyo.github.io/reactPortfolio)
+
+[GitHub](https://github.com/DuckArroyo)
+
+[Twitter @DevDuckArroyo](https://twitter.com/DevDuckArroyo)
+
+[LinkedIn](https://www.linkedin.com/in/duckarroyo)
+
+[CodePen](https://codepen.io/DeveloperDuckArroyo)
